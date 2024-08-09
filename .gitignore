@@ -36,3 +36,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/java,gradle
+/build/
+/.idea/
+/.gradle/
+/gradle/wrapper/gradle-wrapper.jar
